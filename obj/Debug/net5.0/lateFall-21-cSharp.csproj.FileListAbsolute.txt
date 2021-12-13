@@ -1,0 +1,16 @@
+C:\source\codeworks\lateFall-21-cSharp\bin\Debug\net5.0\lateFall-21-cSharp.exe
+C:\source\codeworks\lateFall-21-cSharp\bin\Debug\net5.0\lateFall-21-cSharp.deps.json
+C:\source\codeworks\lateFall-21-cSharp\bin\Debug\net5.0\lateFall-21-cSharp.runtimeconfig.json
+C:\source\codeworks\lateFall-21-cSharp\bin\Debug\net5.0\lateFall-21-cSharp.runtimeconfig.dev.json
+C:\source\codeworks\lateFall-21-cSharp\bin\Debug\net5.0\lateFall-21-cSharp.dll
+C:\source\codeworks\lateFall-21-cSharp\bin\Debug\net5.0\ref\lateFall-21-cSharp.dll
+C:\source\codeworks\lateFall-21-cSharp\bin\Debug\net5.0\lateFall-21-cSharp.pdb
+C:\source\codeworks\lateFall-21-cSharp\obj\Debug\net5.0\lateFall-21-cSharp.csproj.AssemblyReference.cache
+C:\source\codeworks\lateFall-21-cSharp\obj\Debug\net5.0\lateFall-21-cSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\codeworks\lateFall-21-cSharp\obj\Debug\net5.0\lateFall-21-cSharp.AssemblyInfoInputs.cache
+C:\source\codeworks\lateFall-21-cSharp\obj\Debug\net5.0\lateFall-21-cSharp.AssemblyInfo.cs
+C:\source\codeworks\lateFall-21-cSharp\obj\Debug\net5.0\lateFall-21-cSharp.csproj.CoreCompileInputs.cache
+C:\source\codeworks\lateFall-21-cSharp\obj\Debug\net5.0\lateFall-21-cSharp.dll
+C:\source\codeworks\lateFall-21-cSharp\obj\Debug\net5.0\ref\lateFall-21-cSharp.dll
+C:\source\codeworks\lateFall-21-cSharp\obj\Debug\net5.0\lateFall-21-cSharp.pdb
+C:\source\codeworks\lateFall-21-cSharp\obj\Debug\net5.0\lateFall-21-cSharp.genruntimeconfig.cache
